@@ -2,6 +2,6 @@
 
 <div align="center">Alchemy is not for everyone.</div>
 
-<div align="center"> [Sphirye CV - Español.pdf](https://github.com/Sphirye/Sphirye/files/6866115/Sphirye.CV.-.Espanol.pdf) </div>
+<div align="center"> Curriculum Vitae - (Español) https://github.com/Sphirye/Sphirye/files/6866115/Sphirye.CV.-.Espanol.pdf </div>
 
 
